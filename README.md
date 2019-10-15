@@ -8,7 +8,7 @@
 * Tiago Araújo Castro, up201606186@fe.up.pt
 
 
-### Artefacts
+### Artefacts (if you can't access them, but you want to, DM me)
 
 * User Requirements specification
     * A1: [Project presentation](https://git.fe.up.pt/lbaw/lbaw18/lbaw1855/wikis/a1)
