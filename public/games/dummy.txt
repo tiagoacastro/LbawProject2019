@@ -1,0 +1,12 @@
+Tic Tac Toe
+
+    |  |
+ ----------
+    |  |
+ ----------
+    |  |
+
+Player 1: x
+Player 2: o
+
+Objective: place three connecting marks in a horizontal, vertical, or diagonal row.
